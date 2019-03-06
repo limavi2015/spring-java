@@ -19,7 +19,7 @@ http://localhost:8090/api/v1/products
 ```
 
 
-  ##Script para la prueba
+  ## Script para la prueba
 ```
 CREATE TABLE IF NOT EXISTS public.productos
 (
