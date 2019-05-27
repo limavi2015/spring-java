@@ -4,9 +4,9 @@ spring:
   profiles:
     active: dev
   datasource:
-    url: jdbc:postgresql://sbs-dc-postgres:5432/sbsdatacentric?currentSchema=sbs
-    username: sbsadmin
-    password: YMIN^hC]6tllt+r
+    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=public
+    username: postgres
+    password: mysecretpassword
     type: com.zaxxer.hikari.HikariDataSource
     hikari:
       maximum-pool-size: 10

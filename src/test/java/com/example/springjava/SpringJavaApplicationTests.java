@@ -1,4 +1,4 @@
-package com.example.springjava;
+/*package com.example.springjava;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,3 +14,4 @@ public class SpringJavaApplicationTests {
     }
 
 }
+*/
